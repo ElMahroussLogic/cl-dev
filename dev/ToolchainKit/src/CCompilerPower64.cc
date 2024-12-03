@@ -2,7 +2,7 @@
  *	========================================================
  *
  *	CCompilerPower64
- * 	Copyright (C) 2024, ELMH Group, all rights reserved.
+ * 	Copyright (C) 2024, Amlal EL Mahrouss, all rights reserved.
  *
  * 	========================================================
  */
@@ -1503,7 +1503,7 @@ public:
 
 #define kPrintF printf
 #define kSplashCxx() \
-	kPrintF(kWhite "cc, %s, (c) ELMH Group\n", kDistVersion)
+	kPrintF(kWhite "cc, %s, (c) Amlal EL Mahrouss\n", kDistVersion)
 
 static void cc_print_help()
 {
